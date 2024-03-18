@@ -76,7 +76,7 @@ body {
 
 /* 이미지가 왼쪽에서 오른쪽으로 슬라이딩되도록 설정 */
 .image {
-  background-image: url("../image/KakaoTalk_20231013_110642941.gif");
+  background-image: url("image/KakaoTalk_20231013_110642941.gif");
   background-size: cover;
   display: block;
   width: 100%;
